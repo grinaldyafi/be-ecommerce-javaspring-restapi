@@ -28,10 +28,9 @@ _Bismillah_
 ## System Design :memo:
 - RESTful API Design https://be-ecommerce-javaspringboot.herokuapp.com/swagger-ui/
 - ERD : 
-![image](https://user-images.githubusercontent.com/46275481/196972526-ce30e0ab-7606-4a97-9b86-dd1ece055b1d.png)
-
+![image](https://user-images.githubusercontent.com/46275481/196974080-de42b5e1-9428-4926-8ab1-ff435405af18.png)
 - System Flow: 
-![image](https://user-images.githubusercontent.com/46275481/196972314-a1ad2c04-4659-4ad2-b9f4-7ee5ab5ac059.png)
+![image](https://user-images.githubusercontent.com/46275481/196974178-e28fefb5-316e-4970-8ac2-f8b804029e6c.png)
 <br>
 
 ## Features :man_technologist:
