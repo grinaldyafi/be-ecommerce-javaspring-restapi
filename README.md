@@ -62,6 +62,7 @@ $ git clone https://github.com/grinaldyafi/be-ecommerce-javaspring-restapi.git
    > endpoint tersebut berjalan secara lokal untuk dapat digunakan testing restapi menggunakan postman.
 6. Have fun! 
 <br>
+
 ## Testing RESTful API :test_tube:
    Dokumentasi API pada proyek ini menggunakan Swagger https://swagger.io/ yang dapat diakses di https://be-ecommerce-javaspringboot.herokuapp.com/swagger-ui/
    
