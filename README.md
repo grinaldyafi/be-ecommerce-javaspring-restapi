@@ -1,4 +1,6 @@
-# RESTful API Simple Backend Ecommerce menggunakan Java Spring Boot :globe_with_meridians::leaves:
+# RESTful API - Simple Backend Ecommerce menggunakan Java Spring Boot :globe_with_meridians::leaves:
+
+_Bismillah_
 
 ## Technologies :computer:
 
@@ -26,8 +28,10 @@
 ## System Design :memo:
 - RESTful API Design https://be-ecommerce-javaspringboot.herokuapp.com/swagger-ui/
 - ERD : 
-- System Flow: 
+![image](https://user-images.githubusercontent.com/46275481/196972526-ce30e0ab-7606-4a97-9b86-dd1ece055b1d.png)
 
+- System Flow: 
+![image](https://user-images.githubusercontent.com/46275481/196972314-a1ad2c04-4659-4ad2-b9f4-7ee5ab5ac059.png)
 <br>
 
 ## Features :man_technologist:
@@ -58,7 +62,7 @@ $ git clone https://github.com/grinaldyafi/be-ecommerce-javaspring-restapi.git
 5. Endpoint 'http://localhost:8080/' dimana port dapat diubah pada ```src/main/resources/application.properties```
    > endpoint tersebut berjalan secara lokal untuk dapat digunakan testing restapi menggunakan postman.
 6. Have fun! 
-
+<br>
 ## Testing RESTful API :test_tube:
    Dokumentasi API pada proyek ini menggunakan Swagger https://swagger.io/ yang dapat diakses di https://be-ecommerce-javaspringboot.herokuapp.com/swagger-ui/
    
@@ -87,3 +91,7 @@ $ git clone https://github.com/grinaldyafi/be-ecommerce-javaspring-restapi.git
 6. Golang ecommerce + system design: https://www.youtube.com/watch?v=7hOfR6wHMaw&t=614s
 7. Swagger Integration for API Documentation: https://www.youtube.com/watch?v=BWGRPgAQD9A
 8. Database design: https://www.youtube.com/watch?v=25xRI6MHyv4&list=PLUCD-6cu16lIXEXqjft6dwphnehZ_ukAv
+
+PS: not finished yet, need guidance(mentor), time and expereience to learn. Bismillah.
+<br> <br>
+Built With :heart: by Grinaldy Yafi' Rasyad | Yogyakarta, Indonesia
