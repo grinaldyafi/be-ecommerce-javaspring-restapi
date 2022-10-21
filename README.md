@@ -88,11 +88,12 @@ $ git clone https://github.com/grinaldyafi/be-ecommerce-javaspring-restapi.git
 ## Referensi :books:
 1. Konsep Docker: https://www.youtube.com/watch?v=3_yxVjV88Zk&t=1870s
 2. Springboot Docker: https://www.youtube.com/watch?v=qXoaJapIqxc&t=963s
-3. Ecommerce restapi: https://github.com/rene-kt/spring-restapi-ecommerce | https://github.com/andiksystem/tutorial-ecommerce
+3. Ecommerce restapi: https://github.com/rene-kt/spring-restapi-ecommerce | https://github.com/andiksystem/tutorial-ecommerce | https://github.com/webtutsplus/ecommerce-backend | https://www.youtube.com/watch?v=MgOJmWMSTuQ&list=PLzXSm2gSfuPJtCgYJRJdB2hpP3gz73Dvc 
 4. Deploy springboot+postgresql: https://www.youtube.com/watch?v=iJ2rkonD6V4
 6. Golang ecommerce + system design: https://www.youtube.com/watch?v=7hOfR6wHMaw&t=614s
 7. Swagger Integration for API Documentation: https://www.youtube.com/watch?v=BWGRPgAQD9A
 8. Database design: https://www.youtube.com/watch?v=25xRI6MHyv4&list=PLUCD-6cu16lIXEXqjft6dwphnehZ_ukAv
+9. Architecture & pattern inspiration: https://dev.to/nilmadhabmondal/lets-develop-an-e-commerce-application-from-scratch-using-java-and-spring-28go
 
 PS: not finished yet, need guidance(mentor), time and expereience to learn. Bismillah.
 <br> <br>
